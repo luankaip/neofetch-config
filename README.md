@@ -8,7 +8,7 @@
 
 ## 存放位置
 
-`996icu.txt`和`config.conf`在`%HOMEPATH%\.config\neofetch`中
+`996icu.txt`和`config.conf`在`C:%HOMEPATH%\.config\neofetch`中
 
 `neofetch`在`%SCOOP%\apps\neofetch\7.1.0`
 
