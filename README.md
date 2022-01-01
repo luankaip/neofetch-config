@@ -2,9 +2,10 @@
 
 ## 文件作用
 
-1. `996icu.txt`字符画
-2. `config.conf`自定义设置
-3. `neofetch`获取系统参数的文件(修改GPU显示的BUG)
+1. `Start.bat`安装scoop和netfetch
+2. `996icu.txt`字符画
+3. `config.conf`自定义设置
+4. `neofetch`获取系统参数的文件(修改GPU显示的BUG)
 
 ## 存放位置
 
